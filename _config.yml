@@ -42,8 +42,9 @@ social:
   email:
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/MostDegenerate
+    - https://github.com/MostDegenerate/
     - https://www.linkedin.com/in/benjamin-c-a68637162/
+    - https://infosec.exchange/@MostDegenerate/
 
 google_site_verification:               # fill in to your verification string
 
